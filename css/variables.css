@@ -1,0 +1,17 @@
+:root {
+    /* global*/
+    --global: #292F36
+
+
+    /* colors */
+    --button-text-color:#ffffff;
+    --hover-text-color: #cda274;
+    --second-text-color:#4d5053;
+    /* backrground-color*/
+    --backround-color:#f4f0ec;
+
+    /* font*/
+    --body-font: "Jost ",sans-serif ;
+    --second-font: "Dm serif display" ,serif;
+
+}
